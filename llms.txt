@@ -1,0 +1,21 @@
+# Caps (CapAIGC) — Independent Forward Deployed Engineer (FDE)
+
+> Independent FDE helping enterprises move AI from demo to production:
+> enterprise AI deployment, Agent automation for small and medium businesses,
+> and AI video production. Personal studio, one-week verifiable pilots first.
+
+## Services
+
+- [Enterprise AI deployment / FDE on-site service](https://shisanyue950901-beep.github.io/#fde): workflow mapping, AI workflow and Agent build-out, on-site or remote delivery, weekly iteration.
+- [Agent automation for SMBs](https://shisanyue950901-beep.github.io/#agent): automating office and production workflows with AI agents, with handover documentation.
+- [AI video production](https://shisanyue950901-beep.github.io/#video): AIGC short films, sales videos, animated series production, delivered in roughly 10-second shots.
+
+## About
+
+- Name: Caps, brand CapAIGC. Independent Forward Deployed Engineer (FDE), personal studio.
+- Focus: enterprise AI adoption, Agent automation, AIGC video production pipelines.
+- Working model: one-week verifiable pilot first, then scale; all deliverables documented (workflows, prompts, acceptance criteria).
+
+## Contact
+
+- Email: shisanyue950901@gmail.com
