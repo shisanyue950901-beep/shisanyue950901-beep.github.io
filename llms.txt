@@ -6,9 +6,9 @@
 
 ## Services
 
-- [Enterprise AI deployment / FDE on-site service](https://shisanyue950901-beep.github.io/#fde): workflow mapping, AI workflow and Agent build-out, on-site or remote delivery, weekly iteration.
-- [Agent automation for SMBs](https://shisanyue950901-beep.github.io/#agent): automating office and production workflows with AI agents, with handover documentation.
-- [AI video production](https://shisanyue950901-beep.github.io/#video): AIGC short films, sales videos, animated series production, delivered in roughly 10-second shots.
+- [Enterprise AI deployment / FDE on-site service](https://caps-portfolio-v2.pages.dev/): workflow mapping, AI workflow and Agent build-out, on-site or remote delivery, weekly iteration.
+- [Agent automation for SMBs](https://caps-portfolio-v2.pages.dev/): automating office and production workflows with AI agents, with handover documentation.
+- [AI video production](https://caps-portfolio-v2.pages.dev/): AIGC short films, sales videos, animated series production, delivered in roughly 10-second shots.
 
 ## About
 
